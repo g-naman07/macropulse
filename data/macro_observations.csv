@@ -1,0 +1,172 @@
+date,country,series,value,unit,source
+2022-01-01,United States,CPIAUCSL (demo index),280.194,index,Synthetic demo
+2022-01-01,United States,UNRATE (demo),3.713,%,Synthetic demo
+2022-01-01,United States,FEDFUNDS (demo),0.25,%,Synthetic demo
+2022-02-01,United States,CPIAUCSL (demo index),280.787,index,Synthetic demo
+2022-02-01,United States,UNRATE (demo),3.604,%,Synthetic demo
+2022-02-01,United States,FEDFUNDS (demo),0.393,%,Synthetic demo
+2022-03-01,United States,CPIAUCSL (demo index),281.752,index,Synthetic demo
+2022-03-01,United States,UNRATE (demo),3.657,%,Synthetic demo
+2022-03-01,United States,FEDFUNDS (demo),0.535,%,Synthetic demo
+2022-04-01,United States,CPIAUCSL (demo index),282.685,index,Synthetic demo
+2022-04-01,United States,UNRATE (demo),3.861,%,Synthetic demo
+2022-04-01,United States,FEDFUNDS (demo),0.673,%,Synthetic demo
+2022-05-01,United States,CPIAUCSL (demo index),283.382,index,Synthetic demo
+2022-05-01,United States,UNRATE (demo),3.912,%,Synthetic demo
+2022-05-01,United States,FEDFUNDS (demo),0.806,%,Synthetic demo
+2022-06-01,United States,CPIAUCSL (demo index),283.869,index,Synthetic demo
+2022-06-01,United States,UNRATE (demo),3.864,%,Synthetic demo
+2022-06-01,United States,FEDFUNDS (demo),0.934,%,Synthetic demo
+2022-07-01,United States,CPIAUCSL (demo index),284.27,index,Synthetic demo
+2022-07-01,United States,UNRATE (demo),4.017,%,Synthetic demo
+2022-07-01,United States,FEDFUNDS (demo),1.055,%,Synthetic demo
+2022-08-01,United States,CPIAUCSL (demo index),284.72,index,Synthetic demo
+2022-08-01,United States,UNRATE (demo),3.939,%,Synthetic demo
+2022-08-01,United States,FEDFUNDS (demo),1.167,%,Synthetic demo
+2022-09-01,United States,CPIAUCSL (demo index),285.146,index,Synthetic demo
+2022-09-01,United States,UNRATE (demo),3.942,%,Synthetic demo
+2022-09-01,United States,FEDFUNDS (demo),1.27,%,Synthetic demo
+2022-10-01,United States,CPIAUCSL (demo index),285.696,index,Synthetic demo
+2022-10-01,United States,UNRATE (demo),4.003,%,Synthetic demo
+2022-10-01,United States,FEDFUNDS (demo),1.364,%,Synthetic demo
+2022-11-01,United States,CPIAUCSL (demo index),286.034,index,Synthetic demo
+2022-11-01,United States,UNRATE (demo),3.976,%,Synthetic demo
+2022-11-01,United States,FEDFUNDS (demo),1.448,%,Synthetic demo
+2022-12-01,United States,CPIAUCSL (demo index),286.189,index,Synthetic demo
+2022-12-01,United States,UNRATE (demo),4.005,%,Synthetic demo
+2022-12-01,United States,FEDFUNDS (demo),1.523,%,Synthetic demo
+2023-01-01,United States,CPIAUCSL (demo index),286.145,index,Synthetic demo
+2023-01-01,United States,UNRATE (demo),4.0,%,Synthetic demo
+2023-01-01,United States,FEDFUNDS (demo),1.588,%,Synthetic demo
+2023-02-01,United States,CPIAUCSL (demo index),287.236,index,Synthetic demo
+2023-02-01,United States,UNRATE (demo),3.942,%,Synthetic demo
+2023-02-01,United States,FEDFUNDS (demo),1.645,%,Synthetic demo
+2023-03-01,United States,CPIAUCSL (demo index),286.887,index,Synthetic demo
+2023-03-01,United States,UNRATE (demo),4.142,%,Synthetic demo
+2023-03-01,United States,FEDFUNDS (demo),1.693,%,Synthetic demo
+2023-04-01,United States,CPIAUCSL (demo index),286.657,index,Synthetic demo
+2023-04-01,United States,UNRATE (demo),3.855,%,Synthetic demo
+2023-04-01,United States,FEDFUNDS (demo),1.734,%,Synthetic demo
+2023-05-01,United States,CPIAUCSL (demo index),286.946,index,Synthetic demo
+2023-05-01,United States,UNRATE (demo),4.035,%,Synthetic demo
+2023-05-01,United States,FEDFUNDS (demo),1.77,%,Synthetic demo
+2023-06-01,United States,CPIAUCSL (demo index),287.902,index,Synthetic demo
+2023-06-01,United States,UNRATE (demo),3.823,%,Synthetic demo
+2023-06-01,United States,FEDFUNDS (demo),1.801,%,Synthetic demo
+2023-07-01,United States,CPIAUCSL (demo index),287.503,index,Synthetic demo
+2023-07-01,United States,UNRATE (demo),3.862,%,Synthetic demo
+2023-07-01,United States,FEDFUNDS (demo),1.829,%,Synthetic demo
+2023-08-01,United States,CPIAUCSL (demo index),287.243,index,Synthetic demo
+2023-08-01,United States,UNRATE (demo),3.708,%,Synthetic demo
+2023-08-01,United States,FEDFUNDS (demo),1.856,%,Synthetic demo
+2023-09-01,United States,CPIAUCSL (demo index),287.996,index,Synthetic demo
+2023-09-01,United States,UNRATE (demo),3.733,%,Synthetic demo
+2023-09-01,United States,FEDFUNDS (demo),1.883,%,Synthetic demo
+2023-10-01,United States,CPIAUCSL (demo index),287.986,index,Synthetic demo
+2023-10-01,United States,UNRATE (demo),3.747,%,Synthetic demo
+2023-10-01,United States,FEDFUNDS (demo),1.912,%,Synthetic demo
+2023-11-01,United States,CPIAUCSL (demo index),288.842,index,Synthetic demo
+2023-11-01,United States,UNRATE (demo),3.77,%,Synthetic demo
+2023-11-01,United States,FEDFUNDS (demo),1.945,%,Synthetic demo
+2023-12-01,United States,CPIAUCSL (demo index),288.157,index,Synthetic demo
+2023-12-01,United States,UNRATE (demo),3.641,%,Synthetic demo
+2023-12-01,United States,FEDFUNDS (demo),1.982,%,Synthetic demo
+2024-01-01,United States,CPIAUCSL (demo index),289.37,index,Synthetic demo
+2024-01-01,United States,UNRATE (demo),3.535,%,Synthetic demo
+2024-01-01,United States,FEDFUNDS (demo),2.025,%,Synthetic demo
+2024-02-01,United States,CPIAUCSL (demo index),289.387,index,Synthetic demo
+2024-02-01,United States,UNRATE (demo),3.589,%,Synthetic demo
+2024-02-01,United States,FEDFUNDS (demo),2.076,%,Synthetic demo
+2024-03-01,United States,CPIAUCSL (demo index),289.544,index,Synthetic demo
+2024-03-01,United States,UNRATE (demo),3.463,%,Synthetic demo
+2024-03-01,United States,FEDFUNDS (demo),2.135,%,Synthetic demo
+2024-04-01,United States,CPIAUCSL (demo index),290.163,index,Synthetic demo
+2024-04-01,United States,UNRATE (demo),3.52,%,Synthetic demo
+2024-04-01,United States,FEDFUNDS (demo),2.203,%,Synthetic demo
+2024-05-01,United States,CPIAUCSL (demo index),291.267,index,Synthetic demo
+2024-05-01,United States,UNRATE (demo),3.529,%,Synthetic demo
+2024-05-01,United States,FEDFUNDS (demo),2.28,%,Synthetic demo
+2024-06-01,United States,CPIAUCSL (demo index),292.254,index,Synthetic demo
+2024-06-01,United States,UNRATE (demo),3.482,%,Synthetic demo
+2024-06-01,United States,FEDFUNDS (demo),2.368,%,Synthetic demo
+2024-07-01,United States,CPIAUCSL (demo index),292.968,index,Synthetic demo
+2024-07-01,United States,UNRATE (demo),3.472,%,Synthetic demo
+2024-07-01,United States,FEDFUNDS (demo),2.464,%,Synthetic demo
+2024-08-01,United States,CPIAUCSL (demo index),293.764,index,Synthetic demo
+2024-08-01,United States,UNRATE (demo),3.353,%,Synthetic demo
+2024-08-01,United States,FEDFUNDS (demo),2.57,%,Synthetic demo
+2024-09-01,United States,CPIAUCSL (demo index),295.024,index,Synthetic demo
+2024-09-01,United States,UNRATE (demo),3.462,%,Synthetic demo
+2024-09-01,United States,FEDFUNDS (demo),2.685,%,Synthetic demo
+2024-10-01,United States,CPIAUCSL (demo index),296.204,index,Synthetic demo
+2024-10-01,United States,UNRATE (demo),3.391,%,Synthetic demo
+2024-10-01,United States,FEDFUNDS (demo),2.808,%,Synthetic demo
+2024-11-01,United States,CPIAUCSL (demo index),295.986,index,Synthetic demo
+2024-11-01,United States,UNRATE (demo),3.316,%,Synthetic demo
+2024-11-01,United States,FEDFUNDS (demo),2.938,%,Synthetic demo
+2024-12-01,United States,CPIAUCSL (demo index),295.582,index,Synthetic demo
+2024-12-01,United States,UNRATE (demo),3.334,%,Synthetic demo
+2024-12-01,United States,FEDFUNDS (demo),3.073,%,Synthetic demo
+2025-01-01,United States,CPIAUCSL (demo index),297.799,index,Synthetic demo
+2025-01-01,United States,UNRATE (demo),3.374,%,Synthetic demo
+2025-01-01,United States,FEDFUNDS (demo),3.212,%,Synthetic demo
+2025-02-01,United States,CPIAUCSL (demo index),297.359,index,Synthetic demo
+2025-02-01,United States,UNRATE (demo),3.484,%,Synthetic demo
+2025-02-01,United States,FEDFUNDS (demo),3.354,%,Synthetic demo
+2025-03-01,United States,CPIAUCSL (demo index),298.635,index,Synthetic demo
+2025-03-01,United States,UNRATE (demo),3.452,%,Synthetic demo
+2025-03-01,United States,FEDFUNDS (demo),3.498,%,Synthetic demo
+2025-04-01,United States,CPIAUCSL (demo index),306.696,index,Synthetic demo
+2025-04-01,United States,UNRATE (demo),3.496,%,Synthetic demo
+2025-04-01,United States,FEDFUNDS (demo),3.64,%,Synthetic demo
+2025-05-01,United States,CPIAUCSL (demo index),299.947,index,Synthetic demo
+2025-05-01,United States,UNRATE (demo),3.434,%,Synthetic demo
+2025-05-01,United States,FEDFUNDS (demo),3.781,%,Synthetic demo
+2025-06-01,United States,CPIAUCSL (demo index),300.064,index,Synthetic demo
+2025-06-01,United States,UNRATE (demo),3.546,%,Synthetic demo
+2025-06-01,United States,FEDFUNDS (demo),3.918,%,Synthetic demo
+2025-07-01,United States,CPIAUCSL (demo index),300.836,index,Synthetic demo
+2025-07-01,United States,UNRATE (demo),3.554,%,Synthetic demo
+2025-07-01,United States,FEDFUNDS (demo),4.05,%,Synthetic demo
+2025-08-01,United States,CPIAUCSL (demo index),301.245,index,Synthetic demo
+2025-08-01,United States,UNRATE (demo),3.695,%,Synthetic demo
+2025-08-01,United States,FEDFUNDS (demo),4.176,%,Synthetic demo
+2025-09-01,United States,CPIAUCSL (demo index),301.421,index,Synthetic demo
+2025-09-01,United States,UNRATE (demo),3.658,%,Synthetic demo
+2025-09-01,United States,FEDFUNDS (demo),4.294,%,Synthetic demo
+2025-10-01,United States,CPIAUCSL (demo index),301.274,index,Synthetic demo
+2025-10-01,United States,UNRATE (demo),3.765,%,Synthetic demo
+2025-10-01,United States,FEDFUNDS (demo),4.403,%,Synthetic demo
+2025-11-01,United States,CPIAUCSL (demo index),300.577,index,Synthetic demo
+2025-11-01,United States,UNRATE (demo),3.77,%,Synthetic demo
+2025-11-01,United States,FEDFUNDS (demo),4.504,%,Synthetic demo
+2025-12-01,United States,CPIAUCSL (demo index),301.036,index,Synthetic demo
+2025-12-01,United States,UNRATE (demo),3.767,%,Synthetic demo
+2025-12-01,United States,FEDFUNDS (demo),4.595,%,Synthetic demo
+2026-01-01,United States,CPIAUCSL (demo index),301.017,index,Synthetic demo
+2026-01-01,United States,UNRATE (demo),3.776,%,Synthetic demo
+2026-01-01,United States,FEDFUNDS (demo),4.676,%,Synthetic demo
+2026-02-01,United States,CPIAUCSL (demo index),301.227,index,Synthetic demo
+2026-02-01,United States,UNRATE (demo),3.917,%,Synthetic demo
+2026-02-01,United States,FEDFUNDS (demo),4.748,%,Synthetic demo
+2026-03-01,United States,CPIAUCSL (demo index),301.248,index,Synthetic demo
+2026-03-01,United States,UNRATE (demo),3.833,%,Synthetic demo
+2026-03-01,United States,FEDFUNDS (demo),4.811,%,Synthetic demo
+2026-04-01,United States,CPIAUCSL (demo index),302.056,index,Synthetic demo
+2026-04-01,United States,UNRATE (demo),3.931,%,Synthetic demo
+2026-04-01,United States,FEDFUNDS (demo),4.864,%,Synthetic demo
+2026-05-01,United States,CPIAUCSL (demo index),301.92,index,Synthetic demo
+2026-05-01,United States,UNRATE (demo),3.959,%,Synthetic demo
+2026-05-01,United States,FEDFUNDS (demo),4.911,%,Synthetic demo
+2026-06-01,United States,CPIAUCSL (demo index),302.0,index,Synthetic demo
+2026-06-01,United States,UNRATE (demo),4.024,%,Synthetic demo
+2026-06-01,United States,FEDFUNDS (demo),4.95,%,Synthetic demo
+2026-07-01,United States,CPIAUCSL (demo index),302.349,index,Synthetic demo
+2026-07-01,United States,UNRATE (demo),3.999,%,Synthetic demo
+2026-07-01,United States,FEDFUNDS (demo),4.984,%,Synthetic demo
+2026-08-01,United States,CPIAUCSL (demo index),302.444,index,Synthetic demo
+2026-08-01,United States,UNRATE (demo),3.902,%,Synthetic demo
+2026-08-01,United States,FEDFUNDS (demo),5.014,%,Synthetic demo
+2026-09-01,United States,CPIAUCSL (demo index),303.301,index,Synthetic demo
+2026-09-01,United States,UNRATE (demo),4.111,%,Synthetic demo
+2026-09-01,United States,FEDFUNDS (demo),5.042,%,Synthetic demo
