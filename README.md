@@ -37,12 +37,3 @@ The app includes example series IDs: `CPIAUCSL`, `UNRATE`, `FEDFUNDS`, `DGS10`. 
 ## CSV schema
 
 `date, country, series, value, unit, source`
-
-## Interview discussion
-
-- Explain why monthly, quarterly and daily series should not be compared without frequency alignment.
-- Explain month-over-month and year-over-year changes.
-- Explain rolling z-scores and why statistical flags need context.
-- Add revision tracking and vintage dates to distinguish first releases from revised economic data.
-
-**Data note:** the included file is synthetic and intended only to test the interface. Live FRED data requires the user's own API key.
